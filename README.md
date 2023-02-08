@@ -8,6 +8,9 @@ Bypasses GPTZero AI detection software with ease
 
 **Install Instructions**: https://gonzoknows.com/posts/Bypass-GPTZero-Using-Different-Fonts/
 
+### Alternative Bypass Using A Font Changer 
+https://gonzoknows.com/posts/Bypass-AI-Detection-Using-Different-Fonts/
+
 ### Fun Fact: Our bypasser was featured on GPTZero's official substack (blog)
 Although despite their best efforts to block our script, it still works flawlessly. 
 
@@ -18,9 +21,15 @@ Although despite their best efforts to block our script, it still works flawless
 Coming Soon. 
 `Pro tip: the GTPZero bypasser works for this too`
 
+### Alternative Bypass Using A Font Changer 
+https://gonzoknows.com/posts/Bypass-AI-Detection-Using-Different-Fonts/
+
 ## DetectGPT Bypasser
 Coming Soon. 
 `Pro tip: the GTPZero bypasser works for this too`
+
+### Alternative Bypass Using A Font Changer 
+https://gonzoknows.com/posts/Bypass-AI-Detection-Using-Different-Fonts/
 
 ## Educational Purposes Only!
 This open-source work is intended solely for educational purposes and is provided without any warranty. Through my open source work, I aim to highlight the limitations and drawbacks of AI detection software in real-world scenarios, especially with a particular focus on the educational sector.
