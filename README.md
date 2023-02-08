@@ -1,1 +1,1 @@
-# AI-Detection-Bypasser
+# AI-Detection-Bypassers
