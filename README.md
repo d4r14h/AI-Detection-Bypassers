@@ -13,3 +13,6 @@ Although despite their best efforts to block our script, it still works flawless
 
 - Official Link: https://gptzero.substack.com/p/gptzero-case-study-models-and-exploits
 - Archived Link: https://archive.is/dtDra
+
+## Educational Purposes Only!
+This open-source work is intended solely for educational purposes and is provided without any warranty. Through my independent development of software and techniques, I aim to showcase the limitations and drawbacks of AI detection software in real-world scenarios, with a particular focus on the educational sector.
