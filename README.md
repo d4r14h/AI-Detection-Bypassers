@@ -1,5 +1,7 @@
 # AI-Detection-Bypassers
 
+![Gonzoknows all the ways](/logo.png)
+
 ## GPTZero Bypasser 
 Bypasses GPTZero AI detection software with ease
 `Note: the script on my blog post is different as it features the old version of` [o2161405](https://github.com/o2161405) `but I have since updated it.`
